@@ -1,4 +1,0 @@
-swout
-=====
-
-Your SWout score.
