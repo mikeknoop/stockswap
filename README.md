@@ -1,4 +1,1 @@
-swout
-=====
-
-Your SWout score.
+Columbia MO Startup Weekend 2015 project
